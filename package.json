@@ -1,0 +1,14 @@
+{
+  "name": "create-abhi-node",
+  "version": "1.0.5",
+  "type": "module",
+  "bin": {
+    "create-abhi-node": "index.js"
+  },
+  "dependencies": {
+    "degit": "^2.8.4",
+    "inquirer": "^9.2.14",
+    "chalk": "^5.6.0",
+    "ora": "^7.0.1"
+  }
+}
